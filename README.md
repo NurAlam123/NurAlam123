@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there 👋  I'm Nur
 
-<!--
-**NurAlam123/NurAlam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> frontend engineer // intern `@thehexcodehq`
 
-Here are some ideas to get you started:
+I'm a frontend enginner working with modern technologies to craft clean, responsive user interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning **full-stack** development
+- Building cool stuff `@thehexcodehq`
+- Currently studying **Accounting**
+
+In my free time, I love building small tools, drawing pixel art, learning new stuff.
+
+You can reach me at [Discord](https://discord.com/users/838836138537648149) or send an email at [nuralam.rsc@gmail.com](mailto:nuralam.rsc@gmail.com)
